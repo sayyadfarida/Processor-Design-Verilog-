@@ -24,3 +24,4 @@ Finally, in the WB stage, the result produced in the EX stage is written back in
 The repository is organized to facilitate easy integration, testing, and further extension. The code is well-commented and structured into logical sections representing each pipeline stage. The initial block in the top-level module initializes the instruction memory with a sample program that includes LOAD, ADD, and SUB instructions, and also populates the data memory and register file with default values. This self-contained design can be simulated using tools such as Icarus Verilog, ModelSim, or Vivado, offering a hands-on demonstration of pipelined processor behavior.
 
 Output:
+![Image](https://github.com/user-attachments/assets/50792047-987f-46a6-8cd8-f777358d669b)
